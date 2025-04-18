@@ -1,0 +1,35 @@
+React: It is js library and angular is framework of js ,react is efficient declarative and flexible for building reusable UI component means creating the component of function means we can writing html css js directicly there is function based view and class based view but industry use
+function based view it was created by jordan walke whi was software engineer in facebook .
+
+Problems with Javascript:-
+React has simple mental models
+Js is cumbersome
+Js is Error-prone
+Js is hard to maintaine
+we cannot used js to communicate with server
+
+working of react:
+no need to worry about querying and updating DOM
+React create web page with small and reusable code
+react will take care of creating and updating DOM
+
+why react:
+the main objective of react js develop UI to imporve speed of application.it uses virtual DOM(javascript object),which imporves performans of application.JS virtual DOM is faster than regular DOM.we can use client and server-side as well as with framework.it uses component and data pattern that imorve readability and maintain
+
+why to use jsx(Javascript extension):
+it is faster than regular javascript bcz it perform optimization while translating the code of js
+
+props:- is used ro send value from one component to another component
+e.target.value:-to fetch the value from form field
+
+router:-when we clicked on other link it will redirect to another page like href link
+
+useparam:-which is used to fetch data from url
+
+
+useEffect:-
+when we reload the page the data must be visible that why we use useeffect
+when we want to call function
+
+
+seralization:- 
